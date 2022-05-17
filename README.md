@@ -30,7 +30,7 @@
 
 ## GitHub Analytics
 
-<p align="center">
+<p align="left">
 <img width="530em"
      src="https://github-readme-stats.vercel.app/api?username=ThiagoFre&show_icons=true&theme=vision-friendly-dark" alt="ThiagoFre stats"/>
 <img width="530em" 
