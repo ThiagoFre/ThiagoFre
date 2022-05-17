@@ -26,9 +26,12 @@
 <a href="https://www.linkedin.com/in/thiagofre/" ><img src="https://img.shields.io/badge/ThiagoFre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#" ><img src="https://img.shields.io/badge/polar8x-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
 
-<br><br>
+
+</br>
 
 ## GitHub Analytics
+
+</br>
 
 <p align="left">
 <img width="530em"
