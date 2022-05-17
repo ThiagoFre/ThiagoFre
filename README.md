@@ -1,10 +1,14 @@
-## E aí tudo certo? 👋
+<img align="right" height="590em"
+     src="https://raw.githubusercontent.com/gist/ThiagoFre/ca1c8963582260db7326208c595d8f5f/raw/072caa65803b66cc63746ef523d09455774134a8/cardprofile.svg">
+<h1 align="left">E aí, bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></h1>
 
-<div><a href="https://github.com/ThiagoFre">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFre&layout=compact&langs_count=7&theme=dark"  height="60%" width="60%" />
-<img src="https://github-readme-stats.vercel.app/api?username=ThiagoFre&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="60%" width="60%" /> </div>
-<br />
-  
++ Desenvolvedor de Software
++ Quality Assurance
+
++ Estudando em [Digital House](https://www.linkedin.com/school/digital-house-brasil/)
+
+## Tecnologias em Uso
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40px" heigh="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" heigh="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" heigh="40px" /> 
@@ -12,19 +16,23 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" heigth="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" heigth="40px" />                                                   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="40px" heigh="40px"/>
-                                                                                                                   
-<!-- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40px" heigh="40px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40px" heigh="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40px" heigh="40px" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px" heigh="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" heigh="40px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40px" heigh="40px" />
-<
+</div>
 
--->
-  
-<br />
-<br />
+<br>
+<br>
+
+## Social Mídias
+
 <a href="https://www.linkedin.com/in/thiagofre/" ><img src="https://img.shields.io/badge/ThiagoFre-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="#" ><img src="https://img.shields.io/badge/polar8x-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
+
+<br><br>
+
+## GitHub Analytics
+
+<p align="center">
+<img width="530em"
+     src="https://github-readme-stats.vercel.app/api?username=ThiagoFre&show_icons=true&theme=vision-friendly-dark" alt="ThiagoFre stats"/>
+<img width="530em" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFre&layout=compact&theme=vision-friendly-dark" alt="ThiagoFre's most languages"/>
+</p>
