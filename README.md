@@ -1,7 +1,6 @@
 <!-- <img align="right" height="590em"
-     src="https://raw.githubusercontent.com/gist/ThiagoFre/ca1c8963582260db7326208c595d8f5f/raw/072caa65803b66cc63746ef523d09455774134a8/cardprofile.svg">
-<h1 align="left">E aí, bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></h1> -->
-
+     src="https://raw.githubusercontent.com/gist/ThiagoFre/ca1c8963582260db7326208c595d8f5f/raw/072caa65803b66cc63746ef523d09455774134a8/cardprofile.svg">  -->
+<h1 align="left">E aí, bom? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"></h1>
 + Desenvolvedor de Software
 + Quality Assurance
 
